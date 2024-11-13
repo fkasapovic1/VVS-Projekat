@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\VVS%20-%20Projekat\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskService.cs",
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskService.cs",
-              "ViewState": "AQIAAJoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T16:19:02.576Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\DeadlineService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:19:01.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:19:01.396Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Priority.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:59.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:59.271Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\PriorityService.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:48.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:48.91Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskComplexityService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:47.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:47.731Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:43.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:43.108Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\IDeadlineService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:38.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:38.677Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Task.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:18:26.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:18:26.648Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T15:50:53.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T15:50:53.706Z"
             }
           ]
         }
